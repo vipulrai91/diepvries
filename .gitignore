@@ -17,3 +17,4 @@ src/diepvries.egg-info/
 # Generated documentation
 doc/api/
 doc/html/
+src/diepvries/template_sql/params.yaml
